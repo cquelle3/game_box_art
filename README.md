@@ -1,1 +1,1 @@
-# game_box_art
+Game Box Art
